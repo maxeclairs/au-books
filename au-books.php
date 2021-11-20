@@ -1,3 +1,3 @@
 <?php 
 
-// writhe a wordpress plugin
+// write a wordpress plugin
