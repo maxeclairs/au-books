@@ -7,3 +7,4 @@ This plugin is under development and open for contributions.
 Plugin has features listed below:
 
 1. adding books and details
+2. added point 2
